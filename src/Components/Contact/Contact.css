@@ -1,0 +1,88 @@
+.contact-form {
+  padding: 0 3rem 0 3rem;
+  display: flex;
+  height: 80vh;
+  margin-top: 16rem;
+}
+.c-right {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+}
+.c-right > form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+}
+.c-right .user {
+  width: 20rem;
+  height: 2rem;
+  padding: 0.3em;
+  padding-left: 17px;
+  outline: none;
+  border: 2px solid #382153;
+  font-size: 16px;
+  border-radius: 8px;
+}
+textarea {
+  height: 4rem !important;
+}
+.c-blurl {
+  top: 1rem;
+  left: 8rem;
+}
+.awesome {
+  display: block;
+  margin-top: 2rem;
+}
+
+.awesome > span:nth-of-type(1) {
+  color: var(--black);
+  font-size: 2rem;
+}
+.awesome > span:nth-of-type(2) {
+  color: var(--orange);
+  font-size: 2rem;
+}
+.button {
+  color: white;
+  border-radius: 5px;
+  padding: 7px 30px;
+  transition: 0.3s ease-in;
+  background-color: #382153;
+  border: none;
+}
+.button:hover {
+  background-color: #59486d;
+  opacity: 0.85;
+  cursor: pointer;
+}
+@media screen and (max-width: 480px) {
+  .contact-form {
+    flex-direction: column;
+    width: fit-content;
+    margin-left: -5rem;
+  }
+  .awesome {
+    text-align: center;
+  }
+  .c-right .user {
+    width: 17rem;
+    margin-left: -0.7rem;
+  }
+  .c-right {
+    margin-right: -0.4rem;
+  }
+}
+@media screen and (max-width: 768px) {
+  .contact-form {
+    display: block;
+    text-align: center;
+  }
+  .awesome {
+    margin-bottom: 5rem;
+    margin-top: -9rem;
+  }
+}

@@ -1,0 +1,35 @@
+:root {
+  --yellow: #f5c32c;
+  --orange: #fca61f;
+  --black: #242049;
+  --gray: #788097;
+  --blueCard: #ddf8fe;
+  --purple: rgb(173, 125, 209);
+  --boxShadow: 0px 19px 60px rgb(eee / 8%);
+  --orangeCard: rgba(252, 166, 31, 0.45);
+  --smboxShadow: -79px 51px 60px rgba(0, 0, 0, 0.08);
+}
+.App {
+  padding: 0.5rem 3.5rem;
+  overflow: hidden;
+  color: var(--black);
+}
+
+button {
+  color: white;
+  border-radius: 5px;
+  padding: 7px 15px;
+  transition: 0.3s ease-in;
+  background-color: #382153;
+  border: none;
+}
+button:hover {
+  background-color: #59486d;
+  opacity: 0.85;
+  cursor: pointer;
+}
+@media screen and(max-width:480px) {
+  .App {
+    padding: 0.5rem 1rem;
+  }
+}
