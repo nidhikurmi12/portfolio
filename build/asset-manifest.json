@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93dbe618.css",
+    "main.js": "/static/js/main.807dc954.js",
+    "static/media/profilepic2.jpg": "/static/media/profilepic2.8702bb51ca08f1e2c418.jpg",
+    "static/media/N-2.png": "/static/media/N-2.42db4002a0123001917b.png",
+    "static/media/N-3.png": "/static/media/N-3.e3f91319b81b3d9d0c20.png",
+    "static/media/project2.png": "/static/media/project2.5cc27b0b64b00a3cc4b5.png",
+    "static/media/EN-1.png": "/static/media/EN-1.6b59e1acfb7d8b0f81d9.png",
+    "static/media/N-1.png": "/static/media/N-1.acd8fe066954e9ae64b6.png",
+    "static/media/project1.png": "/static/media/project1.75edffaa98f7a408b830.png",
+    "static/media/project5.png": "/static/media/project5.4184de5b09a45eb1e265.png",
+    "static/media/EN-3.png": "/static/media/EN-3.1f476e22e8de0353e36f.png",
+    "static/media/project4.png": "/static/media/project4.9d8e1f7a553ccdf2c8cb.png",
+    "static/media/project3.png": "/static/media/project3.4fa4c270be99da029ddf.png",
+    "static/media/R-2.png": "/static/media/R-2.1c797a4ac38bf20680af.png",
+    "static/media/R-1.png": "/static/media/R-1.71ef43c55ed3dad101ab.png",
+    "static/media/EN-2.png": "/static/media/EN-2.e613ce476c70717449e7.png",
+    "static/media/E-3.png": "/static/media/E-3.57c139a9ab305ebdbe34.png",
+    "static/media/E-2.png": "/static/media/E-2.7a259c5be8d2b3f55887.png",
+    "static/media/R-3.png": "/static/media/R-3.3df2adb2406704c3a0cd.png",
+    "static/media/fiverr.png": "/static/media/fiverr.a8adab76dc3137a5dc29.png",
+    "static/media/E-1.png": "/static/media/E-1.abd3d14682c8505aea6f.png",
+    "static/media/smiley.png": "/static/media/smiley.673df8cd97397db8f7f4.png",
+    "static/media/footer.png": "/static/media/footer.af8a632c3fb616aef93b.png",
+    "static/media/nidhi.pdf": "/static/media/nidhi.2f7e9f6865fcb4d9890c.pdf",
+    "static/media/facebook (1).png": "/static/media/facebook (1).bfa31c51f4624a844a86.png",
+    "static/media/smile1.png": "/static/media/smile1.d5597db141841bf444d3.png",
+    "static/media/profilepic4.jpg": "/static/media/profilepic4.a0cdac71f4b1c63e0d8c.jpg",
+    "static/media/profilepic5.jpg": "/static/media/profilepic5.b8866354dceb47ecd51d.jpg",
+    "static/media/shopify.jpg": "/static/media/shopify.ae436de49993ebe2db68.jpg",
+    "static/media/profilepic3.jpg": "/static/media/profilepic3.26043ab1f2595aeca4c5.jpg",
+    "static/media/profilepic1.jpg": "/static/media/profilepic1.ad6ca50a782c0d63cb3d.jpg",
+    "index.html": "/index.html",
+    "main.93dbe618.css.map": "/static/css/main.93dbe618.css.map",
+    "main.807dc954.js.map": "/static/js/main.807dc954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93dbe618.css",
+    "static/js/main.807dc954.js"
+  ]
+}
