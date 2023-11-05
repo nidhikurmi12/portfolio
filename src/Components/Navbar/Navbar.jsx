@@ -51,7 +51,7 @@ const Navbar = () => {
         </div>
         <div className="contact-btnn">
         <Link spy={true} to="Contact" smooth={true} activeClass="activeClass">
-          <button>Contact Us</button>
+          <button>Contact Me</button>
           </Link>
         </div>
       </div>
