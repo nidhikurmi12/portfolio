@@ -9,15 +9,15 @@ import picture5 from "../../Images/project5.png";
 import N1 from "../../Images/N-1.png";
 import N2 from "../../Images/N-2.png";
 import N3 from "../../Images/N-3.png";
-import E1 from "../../Images/E-1.png"
-import E2 from "../../Images/E-2.png"
-import E3 from "../../Images/E-3.png"
-import R1 from "../../Images/R-1.png"
-import R2 from "../../Images/R-2.png"
-import R3 from "../../Images/R-3.png"
-import EN1 from "../../Images/EN-1.png"
-import EN2 from "../../Images/EN-2.png"
-import EN3 from "../../Images/EN-3.png"
+import E1 from "../../Images/E-1.png";
+import E2 from "../../Images/E-2.png";
+import E3 from "../../Images/E-3.png";
+import R1 from "../../Images/R-1.png";
+import R2 from "../../Images/R-2.png";
+import R3 from "../../Images/R-3.png";
+import EN1 from "../../Images/EN-1.png";
+import EN2 from "../../Images/EN-2.png";
+import EN3 from "../../Images/EN-3.png";
 import "swiper/css";
 import { themeContex } from "../../Contex";
 import { useContext } from "react";
