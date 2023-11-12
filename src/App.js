@@ -22,7 +22,7 @@ function App() {
 
    <Navbar/>
    <Intro/>
-   <Services/>
+   {/* <Services/> */}
    <Experience/>
    <Work/>
    <Portfolio/>
